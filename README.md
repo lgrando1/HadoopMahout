@@ -29,6 +29,7 @@ java -version; javac -version
 ```
 sudo apt install openssh-server openssh-client -y
 ```
+OBS: Testei no WSL2 de uma máquina com Windows 10. Tive que configurar a porta 22 seguindo este procedimento: https://medium.com/@wuzhenquan/windows-and-wsl-2-setup-for-ssh-remote-access-013955b2f421  
 
 # Criar usuário Hadoop
 
